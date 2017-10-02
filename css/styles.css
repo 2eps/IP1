@@ -1,0 +1,40 @@
+.container {
+  margin-right: 0px;
+  margin-left: 15px;
+  padding-right: 0px;
+}
+
+.toptext {
+  color: white;
+}
+
+.image {
+  text-align: center;
+  float: right;
+}
+
+.header {
+  background-image: url(../images/images.jpeg);
+}
+
+.col-md-12 {
+  border-bottom: 5px;
+  border-width: thick;
+}
+
+.col-md-4 {
+  text-align: center;
+  border: 0px 2px 2px 2px;
+}
+
+.unimportant {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#row2 {
+  background-image: url(../images/newbie.jpg);
+}
+
+.row {
+  margin-bottom: 20px;
+}
